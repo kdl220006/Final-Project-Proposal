@@ -1,10 +1,10 @@
-# Title
+# Final Project Proposal - "Bassline Crush - Visual Novel Game"
 
 ## Repository
-<Link to your project's public GitHub respository>
+<https://github.com/kdl220006/pfda_finalProjectProposal_LopezKendon.git>
 
 ## Description
-1-2 sentence description of what it will do and how it relevant to media and digital arts.
+A cute and silly visual novel dating sim with a Simon Says color-based minigame that determines your ending (Bad, Good, Perfect). It's relevant to digital arts and media as it not only incorporates 2D art-based graphics, but also is story-based entertainment media. 
 
 ## Features
 - Feature 1
